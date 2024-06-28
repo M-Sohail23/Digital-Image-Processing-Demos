@@ -6,8 +6,9 @@ Welcome to the DIP Lab repository! This repository contains three Jupyter notebo
 ## Table of Contents
 - [Introduction](#introduction)
 - [Notebooks](#notebooks)
-- [Installation](#installation)
 - [Usage](#usage)
+- [Installation](#installation)
+
 
 
 ## Introduction
@@ -28,13 +29,6 @@ The DIPP Lab repository is a collection of Jupyter notebooks for experimenting w
    - Covers frequency domain techniques for image processing.
    - Commands for Fourier Transform, Inverse Fourier Transform, and frequency domain filtering.
 
-## Installation
-
-To get started, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/M-Sohail23/Digital-Image-Processing-Demos.git
-
 ## Usage
 Running the Notebooks
 To run the Jupyter notebooks, use the following command:
@@ -43,4 +37,13 @@ bash
 Copy code
 'jupyter notebook'
 Open the desired notebook (Image Transformation.ipynb, Multiple Filters.ipynb, or Frequency Domain Processing.ipynb) in the Jupyter interface and follow the instructions within the notebook.
+
+
+## Installation
+
+To get started, clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/M-Sohail23/Digital-Image-Processing-Demos.git
+
 
