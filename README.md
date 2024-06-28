@@ -8,7 +8,6 @@ Welcome to the DIP Lab repository! This repository contains three Jupyter notebo
 - [Notebooks](#notebooks)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Commands](#commands)
 
 
 ## Introduction
@@ -35,4 +34,13 @@ To get started, clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/M-Sohail23/Digital-Image-Processing-Demos.git
+
+## Usage
+Running the Notebooks
+To run the Jupyter notebooks, use the following command:
+
+bash
+Copy code
+'jupyter notebook'
+Open the desired notebook (Image Transformation.ipynb, Multiple Filters.ipynb, or Frequency Domain Processing.ipynb) in the Jupyter interface and follow the instructions within the notebook.
 
